@@ -1,0 +1,15 @@
+{
+  "sockets": [
+    {
+      "socketID": 0,
+      "verts": [],
+      "vertical": false
+    },
+
+    {
+      "socketID": 1,
+      "verts": [],
+      "vertical": true
+    }
+  ]
+}
